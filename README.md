@@ -19,6 +19,7 @@ Nothing specific, just reminders for me and my friends.
 
 ## Object-oriented programming
 - [Class, property, method](OOP/methdos_properties.py)
+- [Constructor, destructor](OOP/constructor_desctructor.py)
 
 ## Created with
 - [Brad Traversy course [EN]](https://www.youtube.com/watch?v=JJmcL1N2KQs&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&index=1&ab_channel=TraversyMedia)
