@@ -18,6 +18,8 @@ Nothing specific, just reminders for me and my friends.
 - [JSON](basics/json_parsing.py)
 
 ## Object-oriented programming
+- [Class, property, method](OOP/methdos_properties.py)
 
-
-Created with Brad Traversy tutorial.
+## Created with
+- [Brad Traversy course [EN]](https://www.youtube.com/watch?v=JJmcL1N2KQs&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&index=1&ab_channel=TraversyMedia)
+- [OOP Python [RU]](https://www.youtube.com/watch?v=Z7AY41tE-3U&list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E&ab_channel=selfedu)
