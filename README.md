@@ -24,6 +24,7 @@ Nothing specific, just reminders for me and my friends.
 - [Constructor, destructor](OOP/constructor_desctructor.py)
 - [Magic method __new__](OOP/new.py)
 - [Class methods and static methods](OOP/class_and_static_methods.py)
+- [Private and protected methods](OOP/private_and_protected.py)
 ---
 ## Patterns
 - [Singleton](patterns/singleton.py)
