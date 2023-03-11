@@ -29,13 +29,14 @@ Nothing specific, just reminders for me and my friends.
 - [Magic method __new__](OOP/new.py)
 - [Class methods and static methods](OOP/class_and_static_methods.py)
 - [Private and protected methods](OOP/private_and_protected.py)
-- [Magic methods __getattribute__, __getattr__,__setattr__, __delattr__](OOP/class_properties_getters_and_setters.py)
+- [Magic methods __getattribute__, __getattr__, __setattr__, __delattr__](OOP/class_properties_getters_and_setters.py)
 
 ---
 
 ## Patterns
 
 - [Singleton](patterns/singleton.py)
+- [Monostate](patterns/monostate.py)
 
 ---
 
