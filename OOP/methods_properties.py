@@ -45,7 +45,7 @@ setattr(Cat, 'voice', 'Nice to meet you!')
 print(getattr(Cat, 'voice'))
 
 # If cat1 has no property "voice", it will be searching in class properties
-print(getattr(cat1,'voice'))
+print(getattr(cat1, 'voice'))
 
 # Delete property
 delattr(Cat, 'voice')
