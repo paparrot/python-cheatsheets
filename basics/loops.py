@@ -8,23 +8,24 @@ for person in people:
 
 print('---')
 
-# Break
+# Break (stop cycle if a condition occurs)
 for person in people:
     if person == 'Sara':
         break
-    print(f'Peson is {person}')
+    print(f'Person is {person}')
 
 print('---')
 
-# Continue
+# Continue (skip current iteration if a condition occurs)
 for person in people:
     if person == 'Sara':
         continue
-    print(f'Peson is {person}')
+    print(f'Person is {person}')
 
 print('---')
 
-# Range
+
+# Range (look for length of target collection and set it as count of iterations)
 for i in range(len(people)):
     print(people[i])
 
@@ -36,7 +37,6 @@ for i in range(0, 10):
 print('---')
 
 # While loops execute a set of statements as long as a condition is true.
-
 count = 0
 while count < 10:
     print(count)

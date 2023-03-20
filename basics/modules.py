@@ -2,6 +2,13 @@
 # There are core python modules, modules you can install the pip package manager
 # (including Django) as well as custom modules
 
+# Good practice is:
+# import first whole module (import modulename)
+# after 1 blank line import part of module (from modulename import part)
+# after 1 blank line import your custom modules (import mymodule)
+# after 1 blank line import part of your module (from mymodule import part)
+
+
 # Core modules
 from time import time
 from datetime import date
