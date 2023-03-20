@@ -1,9 +1,9 @@
 # Variables
 
 # x = 1          # int
-# y = 2.4        #float
-# name = "John"  #str
-# is_cool = True #bool
+# y = 2.4        # float
+# name = "John"  # str
+# is_cool = True # bool
 
 # Multiple assignment
 x, y, name, is_cool = (1, 2.8, 'John', True)
@@ -16,3 +16,9 @@ x = str(x)
 y = int(y)
 
 print(type(x), y)
+
+# Swap values
+a = 1
+b = 2
+a, b = b, a
+print(a, b)
