@@ -14,17 +14,17 @@ person2 = dict(first_name="John", last_name="Doe")
 print(person2)
 
 # Get value
-print(person['first_name'])
-print(person.get('first_name'));
+print(person['first_name'])  # If key don`t exists raise KeyError
+print(person.get('first_name'))  # If key don`t exists return None
 
 # Add key/value
 person['phone'] = '88005553535'
 print(person.get('phone'))
 
-# Get dict keys
+# Get dict keys, return set-like object
 print(person.keys())
 
-# Get dict items
+# Get dict items, return set-like object
 print(person.items())
 
 # Copy dict
@@ -47,7 +47,7 @@ print(person)
 # Length
 print(len(next_person))
 
-# List of dict
+# List of dicts
 people = [
     {'name': 'Martha', 'age': 30},
     {'name': 'Max', 'age': 25},
