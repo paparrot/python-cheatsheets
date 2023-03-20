@@ -9,7 +9,7 @@ print('Hello, my name is ' + name + ' and I am ' + str(age))
 
 # String Formatting
 
-# Arguments by position (like Java, bad practice)
+# Arguments by position (like Java, not recommended to use in Python)
 print('My name is {name} and I am {age}'.format(name=name, age=age))
 
 # F-strings (Best practice, but only python 3.6+)
