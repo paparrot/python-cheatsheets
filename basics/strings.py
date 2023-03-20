@@ -3,7 +3,7 @@
 name = "Klim"
 age = 27
 
-## Concatenate
+# Concatenate
 print('Hello, my name is ' + name + ' and I am ' + str(age))
 
 # String Formatting
