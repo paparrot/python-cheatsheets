@@ -1,12 +1,13 @@
-# A List is collections which is ordered and changeable. Allows duplicate members.
+# A List is collection which is ordered and changeable. Allows duplicate members.
 
 # Create list
-nums = [1,2,3,4,5]
+nums = [1, 2, 3, 4, 5]
 fruits = ['Apples', 'Oranges', 'Grapes', 'Pears']
-
+# any type can be stored here
+mix = ['a', 123, {'name': 'Ford'}]
 
 # Use a constructor
-# numbers = list(1,2,3,4) // Not common
+# numbers = list(1,2,3,4) # Not common
 
 # Get a value
 print(fruits[1])
@@ -45,5 +46,3 @@ print(fruits)
 # Reverse sort
 fruits.sort(reverse=True)
 print(fruits)
-
-
